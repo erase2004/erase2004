@@ -161,6 +161,6 @@
 <ul>
   :pencil: I have my own blog: <a href="https://aniya.moe" target="_blank">TsukiStudio (Traditional Chinese)</a><br />
   :bicyclist: I love cycling and I have done cycling surround Taiwan. This is my routes. :point_right: <a href="https://www.bikemap.net/en/u/erase2004/routes/created/" target="_blank">Bikemap</a><br />
-  :heart: I love watching animes.  I am a fan of ACGN (animes, comics, games, light novels).  This is my record of ACGN pieces. :point_right: <a href="https://bangumi.tv/anime/list/46979" target="_blank">bangumi (Simplified Chinese)</a><br />
+  :heart: I love watching animes.  I am a fan of ACGN (animes, comics, games, light novels).  This is my record of ACGN pieces. :point_right: <a href="https://annict.com/@TsukiAkiba/watching" target="_blank">Annict (Japanese)</a><br />
   :ticket: I love events.  I had joined a lot of events.  This is my record. :point_right: <a href="https://www.eventernote.com/users/erase2004/events" target="_blank">EVENTERNOTE (Japanese)</a><br />
 </ul>
